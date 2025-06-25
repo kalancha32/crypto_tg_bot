@@ -1,6 +1,6 @@
 import asyncio
 from aiogram import Bot,Dispatcher
-from apps.crypto_handlers import router
+from crypyo_bot.apps.crypto_handlers import router
 
 
 
